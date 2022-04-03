@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\mobile_phone_simulations.dir/objects.a
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-W\mingw32\bin\ar.exe cr CMakeFiles\mobile_phone_simulations.dir/objects.a @CMakeFiles\mobile_phone_simulations.dir\objects1.rsp
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-W\mingw32\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\mobile_phone_simulations.dir/objects.a -Wl,--no-whole-archive -o mobile_phone_simulations.exe -Wl,--out-implib,libmobile_phone_simulations.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\mobile_phone_simulations.dir\linklibs.rsp

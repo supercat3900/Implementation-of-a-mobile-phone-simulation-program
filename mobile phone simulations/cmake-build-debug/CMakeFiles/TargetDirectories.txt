@@ -1,3 +1,0 @@
-C:/Users/super/CLionProjects/mobile phone simulations/cmake-build-debug/CMakeFiles/mobile_phone_simulations.dir
-C:/Users/super/CLionProjects/mobile phone simulations/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/super/CLionProjects/mobile phone simulations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
